@@ -1,8 +1,4 @@
 # my-scripts
-my roblox scripts
-
-## scripts
-
 all my scripts
 
 ### prison life
