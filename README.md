@@ -16,6 +16,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-s
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-scripts/refs/heads/main/pizza%20factory.lua"))()
 ```
 
+### ring parts (not stable)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-scripts/refs/heads/main/ring%20parts.lua"))()
+```
+
 
 thank you!
 
