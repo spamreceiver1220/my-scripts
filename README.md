@@ -22,5 +22,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-s
 ```
 
 
-thank you!
+is this tuff?
 
