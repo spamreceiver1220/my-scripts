@@ -21,6 +21,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-s
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-scripts/refs/heads/main/ring%20parts.lua"))()
 ```
 
+### fnaf coop (not done)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spamreceiver1220/my-scripts/refs/heads/main/fnaf%20coop.lua"))()
+```
+
 
 is this tuff?
 
